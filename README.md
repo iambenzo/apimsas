@@ -1,4 +1,4 @@
-[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/iambenzo/apimsas?tab=doc)
+[![Go.Dev reference](https://img.shields.io/badge/go.dev-reference-blue?logo=go&logoColor=white)](https://pkg.go.dev/github.com/iambenzo/apimsas?tab=doc)
 [![go report card](https://goreportcard.com/badge/github.com/iambenzo/apimsas "go report")](https://goreportcard.com/report/github.com/iambenzo/apimsas)
 [![Test](https://github.com/iambenzo/apimsas/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/iambenzo/apimsas/actions/workflows/test.yml)
 
