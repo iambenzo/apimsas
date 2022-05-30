@@ -21,7 +21,7 @@ jobs:
         with:
           go-version: '1.18'
       - name: Run go vet
-        run: go vet ./... -cover
+        run: go vet ./...
 
   lint:
     runs-on: ubuntu-latest
